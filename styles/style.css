@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat');
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    background: red;
+}
+
+.title{
+    font-size: 50px;
+}
