@@ -33,5 +33,5 @@
 > **__then just wait till it builds__**
 </details>
 <h2>About:</h2>
-<p class="about-par"></p>
+<p class="about-par">Ferder Acid is a attempt to continue Acid.uwu (fobus edition) which was discontinued, cause the Acid development got tired of continueing it. + it is working on more projects rn.</p>
 </body>
