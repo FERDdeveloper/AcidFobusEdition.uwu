@@ -204,11 +204,11 @@
 /* 204 */     String grayString = ((Boolean)this.grayNess.getValue()).booleanValue() ? "§7" : "";
 /* 205 */     switch ((WaterMark)this.watermark.getValue()) {
 /*     */       case TIME:
-/* 207 */         this.renderer.drawString("Acid" + (((Boolean)this.modeVer.getValue()).booleanValue() ? " v1.0.1" : ""), 2.0F, 2.0F, (((Boolean)this.rolling.getValue()).booleanValue() && ((Boolean)this.rainbow.getValue()).booleanValue()) ? ((Integer)this.colorMap.get(Integer.valueOf(2))).intValue() : this.color, true);
+/* 207 */         this.renderer.drawString("FerderAcid" + (((Boolean)this.modeVer.getValue()).booleanValue() ? " v1.0.1" : ""), 2.0F, 2.0F, (((Boolean)this.rolling.getValue()).booleanValue() && ((Boolean)this.rainbow.getValue()).booleanValue()) ? ((Integer)this.colorMap.get(Integer.valueOf(2))).intValue() : this.color, true);
 /*     */         break;
 /*     */       
 /*     */       case ACID:
-/* 211 */         this.renderer.drawString("GqrlHack" + (((Boolean)this.modeVer.getValue()).booleanValue() ? " v1.0.1" : ""), 2.0F, 2.0F, (((Boolean)this.rolling.getValue()).booleanValue() && ((Boolean)this.rainbow.getValue()).booleanValue()) ? ((Integer)this.colorMap.get(Integer.valueOf(2))).intValue() : this.color, true);
+/* 211 */         this.renderer.drawString("FerderHack" + (((Boolean)this.modeVer.getValue()).booleanValue() ? " v1.0.1" : ""), 2.0F, 2.0F, (((Boolean)this.rolling.getValue()).booleanValue() && ((Boolean)this.rainbow.getValue()).booleanValue()) ? ((Integer)this.colorMap.get(Integer.valueOf(2))).intValue() : this.color, true);
 /*     */         break;
 /*     */       
 /*     */       case CUSTOM:
