@@ -11,6 +11,9 @@
 <a href="https://discord.gg/UMMWuXPxzt">
  <img src="./images/rsz_1r.png">
 </a>
+<img src="https://shields.io/badge/other%20projects-LOLI,%20Acid(custom base)-gold">
+<img src="https://shields.io/badge/website-online-gold">
+<img src="https://shields.io/badge/version-1.%200.%201-gold">
 <details>
  <strong>How to build</strong>
 
