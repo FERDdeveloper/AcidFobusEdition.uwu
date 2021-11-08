@@ -27,9 +27,9 @@
 /*     */ 
 /*     */ @Mod(modid = "acid", name = "Acid", version = "1.0.1")
 /*     */ public class Phobos {
-/*     */   public static final String MODID = "acid";
-/*  31 */   public static final Logger LOGGER = LogManager.getLogger("Acid"); public static final String MODNAME = "Acid"; public static final String MODVER = "1.0.1";
-/*     */   public static final String NAME_UNICODE = "ລႠ𝖎Ɒ 𝖏ʂ †ਮᙓ ϦƐﮑ†";
+/*     */   public static final String MODID = "ferderacid";
+/*  31 */   public static final Logger LOGGER = LogManager.getLogger("Acid"); public static final String MODNAME = "FerderAcid"; public static final String MODVER = "1.0.1";
+/*     */   public static final String NAME_UNICODE = "FerderAcid on el tope!";
 /*     */   public static final String PHOBOS_UNICODE = "ລႠ𝖎Ɒ";
 /*     */   public static final String CHAT_SUFFIX = " | ລႠ𝖎Ɒ";
 /*     */   public static final String PHOBOS_SUFFIX = " | ລႠ𝖎Ɒ ⸶․Ѻ․⸶";
