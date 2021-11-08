@@ -4,10 +4,10 @@
 <body>
 <h1 class="title">FerderAcid</h1>
 <h2>Infos:</h2>
-<img src="https://shields.io/badge/folders-11-gold"> 
-<img src="https://shields.io/badge/files-300%20+-yellowgreen">
+<img src="https://shields.io/badge/folders-2-gold"> 
+<img src="https://shields.io/badge/files-notknown-yellowgreen">
 <img src="https://shields.io/badge/filesize-8+mb-gold">
-<img src="https://shields.io/badge/devs-Acid%20team+ferderplays-gold">
+<img src="https://shields.io/badge/devs-ferderplays-gold">
 <a href="https://discord.gg/UMMWuXPxzt">
  <img src="./images/rsz_1r.png">
 </a>

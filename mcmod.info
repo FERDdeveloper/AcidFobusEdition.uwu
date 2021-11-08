@@ -1,12 +1,12 @@
 [
   {
-    "modid": "acid",
-    "name": "Acid",
-    "description": "1.12.2 block game client",
-    "version": "1.0.1",
+    "modid": "FerderAcid",
+    "name": "FerderAcid",
+    "description": "1.12.2 block game client - rewrited cause of Copyright issues",
+    "version": "0.0.1",
     "mcversion": "1.12.2",
-    "logoFile": "phobos.png",
-    "url": "https://discord.gg/ApRukWNP93",
+    "logoFile": "",
+    "url": "",
     "updateUrl": "",
     "authorList": [
       "gqrl"
